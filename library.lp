@@ -1,0 +1,11 @@
+(librepcb_library 126c8d01-7150-4a4f-b1b8-a700962b3ef9
+ (name "M5Stack")
+ (description "IoT modules by M5Stack (unofficial).")
+ (keywords "m5,m5stack")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2024-10-26T21:50:30Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/M5Stack.lplib")
+ (manufacturer "M5Stack")
+)
