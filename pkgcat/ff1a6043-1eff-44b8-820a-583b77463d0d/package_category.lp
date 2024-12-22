@@ -1,0 +1,10 @@
+(librepcb_package_category ff1a6043-1eff-44b8-820a-583b77463d0d
+ (name "M5Stack")
+ (description "")
+ (keywords "")
+ (author "Danilo B.")
+ (version "0.1")
+ (created 2024-10-26T23:03:19Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
